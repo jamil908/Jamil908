@@ -1,5 +1,5 @@
 <div align="center">
-  <div align="center">
+   <div align="center">
   <img height="212" width="full" object="fit-content" src="https://i.ibb.co/KxK30qD/1736275847857-01.jpg"  />
 </div>
 # 👋 MD Jamil Hossain
@@ -65,7 +65,15 @@ Highly motivated and detail-oriented **Full Stack Developer** with strong expert
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamil908&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&line_height=27)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jamil908&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamil908&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area_color=161b22&hide_border=true&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
